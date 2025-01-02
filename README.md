@@ -9,7 +9,7 @@ https://www.lifetable.de/Codes/Regions
 
 #### Current Tasks
 1. 导入英国&智利的数据
-2. 读https://www.lifetable.de/File/GetDocument/formats.pdf了解每一行的数据都是干什么的？
+2. 读https://www.lifetable.de/File/GetDocument/formats.pdf   了解每一行的数据都是干什么的？
 
 
 

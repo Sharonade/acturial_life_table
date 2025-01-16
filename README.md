@@ -9,6 +9,7 @@ https://www.lifetable.de/Codes/Regions
 
 #### Current Tasks
 3.1 Calculate the premium under question (£500,000 insurance that lasts for 5 years and for people aged 18-59) 计算所涉年保费（50 万英镑的保险，为期 5 年，适用于 18-59 岁的人）
+
 3.2 Analyse the risks using sensitivity analysis. 利用敏感性分析来分析风险，以及比较死亡率和利率对年保费的影响
 
 
